@@ -24,9 +24,9 @@
 
 **截图：** MySQL 启动成功提示，以及终端中 `USE smartpark_lab`、`SHOW TABLES`、`DESCRIBE houseinfo` 的执行结果。可分图。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144258-1.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144347.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144459.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144258-1.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144347.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20144459.png>)
 
 说明：当前使用哪个数据库？`id` 和8个房源字段分别保存什么？
 
@@ -47,7 +47,7 @@
 
 **截图：** 框出该字段的 HTML 节点和房源父容器，展示选择器的匹配结果。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20155418.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20155418.png>)
 
 说明：删掉了哪些层级？怎样确认父容器刚好包含一条房源？
 
@@ -65,8 +65,8 @@
 
 可分成几张局部截图。另附面积、单价对应的 HTML 节点或网页原文。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20165605.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20165618.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20165605.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20165618.png>)
 
 说明：两个选择方法各用在哪里？怎样确认面积和单价没有取错？
 
@@ -80,9 +80,9 @@
 
 **截图：** 框出提取 `href`、补全地址、循环更新地址和停止条件的代码。附前两页的运行日志，以及最终停止提示。离线实验展示快照中的href、补全结果和文件读取记录，注明“离线回放”，不算在线翻页成功。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20235740.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20000452.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20000516.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-27%20235740.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20000452.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20000516.png>)
 
 说明：怎样进入下一页？怎样防止重复采集或无限循环？若中途失败，说明停在哪一步。
 
@@ -92,8 +92,8 @@
 
 **截图：** CSV保存与回读代码、回读条数。框出编码、表头和数据写入部分。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001006.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001033.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001006.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001033.png>)
 
 说明：8个字段的顺序是什么？按8个字段完全相同去重后，保存了多少条记录？
 
@@ -107,12 +107,12 @@
 
 **截图：** 框出读取CSV、按8个字段整理入库参数的代码。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001733.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001733.png>)
 
 **截图：** 自己编写的入库代码。框出 `executemany()`、`commit()`、`rollback()`，以及关闭游标和连接的操作。另框出避免重复插入的代码。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001808.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001828.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001808.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20001828.png>)
 
 说明：每条记录怎样对应8个参数？成功、失败时分别做什么？再次运行时怎样避免重复插入？
 
@@ -124,8 +124,8 @@
 
 **截图：** MySQL 终端中的入库前后 `SELECT COUNT(*)`、重跑后的条数，以及 `SELECT ... LIMIT 5` 的结果。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003346.png>)
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003659.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003346.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003659.png>)
 
 | 项目 | 实际结果 |
 |---|---|
@@ -148,7 +148,7 @@
 
 **截图：** 三条样本的对照结果，框出面积、单价和年代。可分图。
 
-(<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003716-1.png>)
+![alt text](<https://testingcf.jsdelivr.net/gh/oTvTog-CaTvT/bigdata-collection-labs-112404260114@main/bigdata-collection-labs-112404260114/lab02/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-10-28%20003716-1.png>)
 
 - 样本1（页码或URL、记录位置）：第1页（http://www.bspider.top/anjuke/），去重后CSV第1行（下标0），即第1页第1条房源“万科物业自营 南坪六公里金域翰林 三号线精装正三房带家具电器”
 - 样本2（页码或URL、记录位置）：URL 为 http://www.bspider.top/anjuke/?page=5 附近的中部记录，去重后CSV第250行（下标249），房源“精装修洋房 位置安静 全新装修 随时看房”
