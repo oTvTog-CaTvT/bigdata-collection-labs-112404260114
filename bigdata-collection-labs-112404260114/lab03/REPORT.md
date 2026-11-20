@@ -29,7 +29,7 @@
 
 **截图：** 环境成功运行和工具版本，注意遮挡可视化连接中的认证信息。
 
-![alt text](images/1.png)
+![alt text](./images/1.png)
 
 ### 2. 扫码与登录判断
 
@@ -40,8 +40,8 @@
 
 **截图：** 登录判断代码和真实成功输出；若失败，附实际报错。
 
-![alt text](images/2.png)
-![alt text](images/3.png)
+![alt text](./images/2.png)
+![alt text](./images/3.png)
 
 说明：程序如何区分"页面已打开"和"已经登录"？
 
@@ -64,7 +64,7 @@
 
 **截图：** 一封邮件的父容器、关键字段定位代码，以及正确解析的一条脱敏样本。
 
-![alt text](images/4.png)
+![alt text](./images/4.png)
 
 说明：选择一个字段，解释从页面节点到自己代码中选择器的过程。
 
@@ -81,7 +81,7 @@
 
 **截图：** 框出 `pd.DataFrame()`、`to_csv()`、`read_csv()`，以及 `index=False`、编码和条数统计。
 
-![alt text](images/5.png)
+![alt text](./images/5.png)
 
 ### 3. 样本核对
 
@@ -95,7 +95,7 @@
 
 **截图：** 脱敏后的3条核对证据。
 
-![alt text](images/5.png)
+![alt text](./images/5.png)
 
 ### 第二阶段检查记录
 
@@ -117,9 +117,9 @@
 
 **截图：** 滚动、等待列表ID变化、停止条件的代码与真实日志。
 
-![alt text](images/6.png) 
-![alt text](images/7.png)
-![alt text](images/8.png)
+![alt text](./images/6.png) 
+![alt text](./images/7.png)
+![alt text](./images/8.png)
 
 ### 2. 邮件ID与去重
 
@@ -129,8 +129,8 @@
 
 **截图：** ID读取、重复跳过和集合更新代码。
 
-![alt text](images/6.png) 
-![alt text](images/7.png)
+![alt text](./images/6.png) 
+![alt text](./images/7.png)
 
 | 批次  | 本批新增唯一邮件数 | 累计唯一邮件数 |
 | --- | --------- | ------- |
@@ -149,7 +149,7 @@
 
 **截图：** 回读数量、ID唯一性核对，以及同一次运行中重复采集新增0条的证据。
 
-![alt text](images/9.png)
+![alt text](./images/9.png)
 
 说明：为什么这项验证能证明去重，而仅仅关闭程序后重新覆盖CSV不能证明？
 
@@ -168,8 +168,8 @@
 
 **截图：** 进入详情、读取正文、返回和恢复列表位置的关键代码。
 
-![alt text](images/10.png) 
-![alt text](images/11.png)
+![alt text](./images/10.png) 
+![alt text](./images/11.png)
 
 ### 2. 接入批次循环并核对
 
@@ -190,7 +190,7 @@
 
 **截图：** CSV回读数量、正文长度及脱敏后的正文核对样本。不要展示私人正文原文。
 
-![alt text](images/12.png)
+![alt text](./images/12.png)
 
 说明：怎样确认保存的是正文，而不是主题、摘要或整个页面？正文含换行时怎样统计邮件记录数？
 
